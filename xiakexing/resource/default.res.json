@@ -1,0 +1,321 @@
+{
+	"resources": [
+
+	    {
+		"name": "gs_bg",
+		"type": "image",
+		"url": "assets/gs_bg.jpg"
+	    },
+		{
+		  "name": "gs_start",
+		  "type": "image",
+		  "url": "assets/gs_start.png"
+		},
+		{
+		  "name": "fire_png",
+		  "type": "image",
+		  "url": "assets/fire.png"
+		},
+		{
+		  "name": "fire_json",
+		  "type": "json",
+		  "url": "assets/fire.json"
+		},
+		{
+		  "name": "aoution_bomb_png",
+		  "type": "image",
+		  "url": "assets/aoution_bomb.png"
+		},
+		{
+		  "name": "aoution_bomb_json",
+		  "type": "json",
+		  "url": "assets/aoution_bomb.json"
+		},
+		{
+		  "name": "thunder_png",
+		  "type": "image",
+		  "url": "assets/thunder.png"
+		},
+		{
+		  "name": "thunder_json",
+		  "type": "json",
+		  "url": "assets/thunder.json"
+		},
+		{
+		  "name": "thunder_circle_png",
+		  "type": "image",
+		  "url": "assets/thunder_circle.png"
+		},
+		{
+		  "name": "thunder_circle_json",
+		  "type": "json",
+		  "url": "assets/thunder_circle.json"
+		},
+		{
+		"name": "role_trick_png",
+		"type": "image",
+		"url": "assets/role_trick.png"
+	    },
+		{
+		  "name": "role_trick_json",
+		  "type": "json",
+		  "url": "assets/role_trick.json"
+		},
+		{
+		  "name": "role_hurt_png",
+		  "type": "image",
+		  "url": "assets/role_hurt.png"
+		},
+		{
+		  "name": "role_hurt_json",
+		  "type": "json",
+		  "url": "assets/role_hurt.json"
+		},
+		{
+		  "name": "monster_attack1_png",
+		  "type": "image",
+		  "url": "assets/monster_attack1.png"
+		},
+		{
+		  "name": "monster_attack1_json",
+		  "type": "json",
+		  "url": "assets/monster_attack1.json"
+		},
+		{
+		  "name": "monster_hurt1_png",
+		  "type": "image",
+		  "url": "assets/monster_hurt1.png"
+		},
+		{
+		  "name": "monster_hurt1_json",
+		  "type": "json",
+		  "url": "assets/monster_hurt1.json"
+		},
+		{
+		  "name": "monster_attack2_png",
+		  "type": "image",
+		  "url": "assets/monster_attack2.png"
+		},
+		{
+		  "name": "monster_attack2_json",
+		  "type": "json",
+		  "url": "assets/monster_attack2.json"
+		},
+		{
+		  "name": "monster_hurt2_png",
+		  "type": "image",
+		  "url": "assets/monster_hurt2.png"
+		},
+		{
+		  "name": "monster_hurt2_json",
+		  "type": "json",
+		  "url": "assets/monster_hurt2.json"
+		},
+		{
+		  "name": "monster_attack3_png",
+		  "type": "image",
+		  "url": "assets/monster_attack3.png"
+		},
+		{
+		  "name": "monster_attack3_json",
+		  "type": "json",
+		  "url": "assets/monster_attack3.json"
+		},
+		{
+		  "name": "monster_hurt3_png",
+		  "type": "image",
+		  "url": "assets/monster_hurt3.png"
+		},
+		{
+		  "name": "monster_hurt3_json",
+		  "type": "json",
+		  "url": "assets/monster_hurt3.json"
+		},
+		{
+		  "name": "progress_png",
+		  "type": "image",
+		  "url": "assets/progress.png"
+		},
+		{
+		  "name": "progressBg_png",
+		  "type": "image",
+		  "url": "assets/progressBg.png"
+		},
+		{
+		  "name": "hero_1_png",
+		  "type": "image",
+		  "url": "assets/hero_1.png"
+		},
+		{
+		  "name": "ray_png",
+		  "type": "image",
+		  "url": "assets/ray.png"
+		},
+		{
+		  "name": "frost_png",
+		  "type": "image",
+		  "url": "assets/frost.png"
+		},
+		{
+		  "name": "flame_png",
+		  "type": "image",
+		  "url": "assets/flame.png"
+		},
+		{
+		  "name": "enemy1_png",
+		  "type": "image",
+		  "url": "assets/enemy1.png"
+		},
+		{
+		  "name": "enemy2_png",
+		  "type": "image",
+		  "url": "assets/enemy2.png"
+		},
+		{
+		  "name": "enemy3_png",
+		  "type": "image",
+		  "url": "assets/enemy3.png"
+		},
+		{
+		  "name": "skill_png",
+		  "type": "image",
+		  "url": "assets/skill.png"
+		},
+		{
+		  "name": "skill_json",
+		  "type": "json",
+		  "url": "assets/skill.json"
+		},
+		{
+		  "name": "skill_guide_png",
+		  "type": "image",
+		  "url": "assets/skill_guide.png"
+		},
+		{
+		  "name": "thunder_icon_png",
+		  "type": "image",
+		  "url": "assets/thunder_icon.png"
+		},
+		{
+		  "name": "ice_icon_png",
+		  "type": "image",
+		  "url": "assets/ice_icon.png"
+		},
+		{
+		  "name": "fire_icon_png",
+		  "type": "image",
+		  "url": "assets/fire_icon.png"
+		},
+		{
+		  "name": "enemy_fire_png",
+		  "type": "image",
+		  "url": "assets/enemy_fire.png"
+		},
+		{
+		  "name": "enemy_ice_png",
+		  "type": "image",
+		  "url": "assets/enemy_ice.png"
+		},
+		{
+		  "name": "enemy_thunder_png",
+		  "type": "image",
+		  "url": "assets/enemy_thunder.png"
+		},
+		{
+		  "name": "go_bg",
+		  "type": "image",
+		  "url": "assets/go_bg.jpg"
+		},
+		{
+		  "name": "go_restart",
+		  "type": "image",
+		  "url": "assets/go_restart.png"
+		},
+		{
+		  "name": "go_share",
+		  "type": "image",
+		  "url": "assets/go_share.png"
+		},
+		{
+		  "name": "font_fnt",
+		  "type": "font",
+		  "url": "assets/number.fnt"
+		},
+		{
+		  "name": "map_1",
+		  "type": "image",
+		  "url": "assets/map/map_1.jpg"
+		},
+		{
+		  "name": "map_2",
+		  "type": "image",
+		  "url": "assets/map/map_2.jpg"
+		},
+		{
+		  "name": "map_3",
+		  "type": "image",
+		  "url": "assets/map/map_3.jpg"
+		},
+		{
+		  "name": "map_4",
+		  "type": "image",
+		  "url": "assets/map/map_4.jpg"
+		},
+		{
+		  "name": "map_5",
+		  "type": "image",
+		  "url": "assets/map/map_5.jpg"
+		},
+		{
+		  "name": "map_6",
+		  "type": "image",
+		  "url": "assets/map/map_6.jpg"
+		},
+		{
+		  "name": "map_7",
+		  "type": "image",
+		  "url": "assets/map/map_7.jpg"
+		},
+		{
+		  "name": "map_8",
+		  "type": "image",
+		  "url": "assets/map/map_8.jpg"
+		},
+		{
+		  "name": "map_9",
+		  "type": "image",
+		  "url": "assets/map/map_9.jpg"
+		},
+		{
+		  "name": "map_10",
+		  "type": "image",
+		  "url": "assets/map/map_10.jpg"
+		},
+		{
+		  "name": "map_11",
+		  "type": "image",
+		  "url": "assets/map/map_11.jpg"
+		},
+		{
+		  "name": "map_12",
+		  "type": "image",
+		  "url": "assets/map/map_12.jpg"
+		},
+		{
+		  "name": "hand",
+		  "type": "image",
+		  "url": "assets/hand.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "gs_bg,gs_start,aoution_bomb_png,aoution_bomb_json,fire_png,fire_json,thunder_png,thunder_json,thunder_circle_png,thunder_circle_json,role_trick_png,role_trick_json,role_hurt_png,role_hurt_json,monster_attack1_png,monster_attack1_json,monster_hurt1_png,monster_hurt1_json,monster_attack2_png,monster_attack2_json,monster_hurt2_png,monster_hurt2_json,monster_attack3_png,monster_attack3_json,monster_hurt3_png,monster_hurt3_json,progress_png,progressBg_png,hero_1_png,frost_png,flame_png,ray_png,enemy1_png,enemy2_png,enemy3_png,skill_json,skill_png,skill_guide_png,thunder_icon_png,ice_icon_png,fire_icon_png,enemy_thunder_png,enemy_fire_png,enemy_ice_png,go_bg,go_share,go_restart,font_fnt,map_1,map_2,map_3,map_4,map_5,map_6,map_7,map_8,map_9,map_10,map_11,map_12,hand"
+		}
+	]
+}
